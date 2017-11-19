@@ -1,8 +1,8 @@
-Package: com.jmukes97.EmergencyRespring
-Name: EmergencyRespring
+Package: com.jmukes97.Debugserver10
+Name: Debugserver 10
 Version:0.0.1
 Architecture: iphoneos-arm
-Description: A small simple script that is used for emergency respring when you only have ssh accsess. Just in a terminal type 'EmergencyRespring'
+Description: Debug server (lldb) for ios 10.  
 Maintainer: Jmukes97
 Author: Jmukes97
 Section: System
